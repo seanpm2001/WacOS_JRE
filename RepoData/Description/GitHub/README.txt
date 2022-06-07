@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+The Java Runtime Environment (JRE) for Wac OS X, WOAHS-X and beyond. Part of the WacOS operating system project.
